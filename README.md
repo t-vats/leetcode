@@ -10,6 +10,8 @@ A collection of daily problem solutions and practice notes.
   - September 2
   - September 3
   - September 4
+  - September 5
+  - September 6
 - Recursions
 - Dynamic Programming
 
@@ -22,6 +24,8 @@ A collection of daily problem solutions and practice notes.
 | September 2 | [5. Longest Palindromic Substring](daily/september2/5.md) | [5.md](daily/september2/5.md) | [LongestPalindrome.java](daily/september2/LongestPalindrome.java) |
 | September 3 | [3876. Construct Uniform Parity Array II](daily/september3/3876.md) | [3876.md](daily/september3/3876.md) | [UniformParity.java](daily/september3/UniformParity.java) |
 | September 4 | [3903. Find the Smallest Stable Index](daily/september4/3903.md) | [3903.md](daily/september4/3903.md) | [SmallestStableIndex.java](daily/september4/SmallestStableIndex.java) |
+| September 5 | [3904. Find the Smallest Stable Index II](daily/september5/3904.md) | [3904.md](daily/september5/3904.md) | [SmallestStableIndex2.java](daily/september5/SmallestStableIndex2.java) |
+| September 6 | [115. Distinct Subsequences](daily/september6/115.md) | [115.md](daily/september6/115.md) | [DistinctSubsequence.java](daily/september6/DistinctSubsequence.java) |
 
 ## Practice Areas
 
