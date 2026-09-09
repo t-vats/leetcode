@@ -7,7 +7,7 @@ public class DistinctSubsequence2 {
     
     public static void main(String[] args){
 
-        String s = "abc";
+        String s = "pcrdhwdxmqdznbenhwjsenjhvulyve";
         int result = distinctSubseqII(s);
         System.out.println("Number of Distinct Subsequences: " + result);
 
