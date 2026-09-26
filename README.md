@@ -12,8 +12,20 @@ A collection of daily problem solutions and practice notes.
   - September 4
   - September 5
   - September 6
+  - September 7
+  - September 8
+  - September 9
+  - September 16
+  - September 17
+  - September 18
+  - September 19
+  - September 20
+  - September 21
+  - September 22
 - Recursions
+- Disjoint Set Union
 - Dynamic Programming
+- LRU Cache
 
 ## Daily Problems
 
@@ -26,17 +38,35 @@ A collection of daily problem solutions and practice notes.
 | September 4 | [3903. Find the Smallest Stable Index](daily/september4/3903.md) | [3903.md](daily/september4/3903.md) | [SmallestStableIndex.java](daily/september4/SmallestStableIndex.java) |
 | September 5 | [3904. Find the Smallest Stable Index II](daily/september5/3904.md) | [3904.md](daily/september5/3904.md) | [SmallestStableIndex2.java](daily/september5/SmallestStableIndex2.java) |
 | September 6 | [115. Distinct Subsequences](daily/september6/115.md) | [115.md](daily/september6/115.md) | [DistinctSubsequence.java](daily/september6/DistinctSubsequence.java) |
+| September 7 | [940. Distinct Subsequences II](daily/september7/940.md) | [940.md](daily/september7/940.md) | [DistinctSubsequence2.java](daily/september7/DistinctSubsequence2.java) |
+| September 8 | [3870. Count Commas in Range](daily/september8/3870.md) | [3870.md](daily/september8/3870.md) | [CountCommas.java](daily/september8/CountCommas.java) |
+| September 9 | [3871. Count Commas in Range II](daily/september9/3871.md) | [3871.md](daily/september9/3871.md) | [CountCommas2.java](daily/september9/CountCommas2.java) |
+| September 16 | [1621. Number of Sets of K Non-Overlapping Line Segments](daily/september16/1621.md) | [1621.md](daily/september16/1621.md) | [KNonOverlap.java](daily/september16/KNonOverlap.java) |
+| September 17 | [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum](daily/september17/1477.md) | [1477.md](daily/september17/1477.md) | [TwoNonOverlappingArray.java](daily/september17/TwoNonOverlappingArray.java) |
+| September 18 | [1520. Maximum Number of Non-Overlapping Substrings](daily/september18/1520.md) | [1520.md](daily/september18/1520.md) | — |
+| September 19 | [1401. Circle and Rectangle Overlapping](daily/september19/1401.md) | [1401.md](daily/september19/1401.md) | — |
+| September 20 | [3498. Reverse Degree of a String](daily/september20/3498.md) | [3498.md](daily/september20/3498.md) | — |
+| September 21 | [3524. Find X Value of Array](daily/september21/3524.md) | [3524.md](daily/september21/3524.md) | — |
+| September 22 | [3525. Find X Value of Array II](daily/september22/3525.md) | [3525.md](daily/september22/3525.md) | — |
 
 ## Practice Areas
 
 - [Dynamic Programming](dynamicProgramming)
 - [Recursions](recursions)
+- [Disjoint Set Union](disjointSet)
+- [LRU Cache](LRUCache)
 
 ## Recursion Problems
 
 | Problem | Notes | Java solution |
 | --- | --- | --- |
 | [21. Merge Two Sorted Lists](recursions/mergeSortedLinkedList/21.md) | [21.md](recursions/mergeSortedLinkedList/21.md) | [MergeSortedLinkedList.java](recursions/mergeSortedLinkedList/MergeSortedLinkedList.java) |
+
+## Disjoint Set Union Problems
+
+| Problem | Notes | Java solution |
+| --- | --- | --- |
+| [1722. Minimize Hamming Distance After Swap Operations](disjointSet/1722.md) | [1722.md](disjointSet/1722.md) | [MinHammingDIstance.java](disjointSet/MinHammingDIstance.java) |
 
 ## Notes
 
